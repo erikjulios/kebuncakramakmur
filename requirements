@@ -1,0 +1,10 @@
+
+
+2. invoice
+3. masukan pesanan sesuai keranjang( text area)
+4. crud admin
+5. 
+
+ngambil id dan jumlah di cart berdasarkan cache / input history keranjang ke table history
+ambil nama dan harga pada vegetable
+

@@ -1,0 +1,60 @@
+*{
+    scroll-behavior: smooth;
+}
+/* style slider */
+.carousel-item img{
+    filter: brightness(50%);
+    transition: 0.3s;
+}
+.carousel-item img:hover{
+    transition: 0.3s;
+    filter: brightness(40%);
+}
+.carousel-item .display-4 {
+    margin-top: -450px;
+}
+.carousel-item .btn{
+    background-color: rgb(64, 172, 34);
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+    font-weight: 700;
+    color: white;
+}
+.carousel-item .btn:hover {
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+    font-weight: 700;
+    color: rgb(64, 172, 34);
+}
+#section2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#psayur:hover {
+    filter: brightness(80%);
+}
+#pbuah:hover {
+    filter: brightness(80%);
+}
+/* footer */
+footer {
+    background-color: rgb(24, 24, 25);
+}
+/* about */
+
+/* card */
+.card p {
+    margin-top: -10px;
+    margin-bottom: 1px;
+}
+.row .card:hover {
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+}
